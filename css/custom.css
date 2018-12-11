@@ -322,11 +322,11 @@ header {
 
 header .intro-text {
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 0px;
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     line-height: 22px;
@@ -378,15 +378,15 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in-team {
-        margin-bottom: 25px;
-        margin-top: 350px;
+        margin-top: 250px;
+        margin-bottom: 0px;
         text-transform: uppercase;
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         background-color: #FAB934;
         color: #000;
-        width:870px;
+        width:600px;
         font-size: 20px;
-        line-height: 30px;
+        line-height: 20px;
     }
 
     header .intro-text-2 .intro-lead-in-2 {
@@ -401,7 +401,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text-2 .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 0px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
